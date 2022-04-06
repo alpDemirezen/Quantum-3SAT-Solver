@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/431930223.svg)](https://zenodo.org/badge/latestdoi/431930223)
+
 # Quantum-3SAT-Solver
 This project proposes a new algorithm to solve 3-SAT problem by utilizing quantum properties and classic random walk approach. This documentation will help you to try different setups yourself.
 
